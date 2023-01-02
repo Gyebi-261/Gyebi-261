@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Obed-Edom
-- 👀 I’m interested bringing knowledge to all.
-- 🌱 I’m currently creating a space here to introduce students to the amazing world of matrices and computer graphics through the python programming language 🎉
-- 💞️ This course or activity will introduce you into the basics of programming and matrice algebra with applications in python 
+- During my holdilays, I took a deep dive into python's graphics library and ended up in computer graphcs
+- Really enjoyed creating this project and having to learn a little bit of high school math
+
+
+ 
 - 📫 You can contact me incase you site any errors or want to live a thank you note.
  Message chadsigma56@gmail.com🎄
 <!---
